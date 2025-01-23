@@ -13,5 +13,5 @@ This application is my second personal showcase project. Integrating Open Weathe
 * **_backgroundImage.jpg_** - Backdrop image for the site. 
 ## References & Attribution
 * [Open Weather Map Documentation](https://openweathermap.org/api)
-* [Leaflet Documentation](https://docs.python.org/3/library/tk.html)
+* [Leaflet Documentation](https://leafletjs.com/reference.html)
 ##### Additional documentation and commentary are included directly within the code files. 
