@@ -2,7 +2,7 @@
 #### Format: Web Application
 #### Technologies & Frameworks: HTML, CSS, JS, Leaflet
 ## How to Use 
-1. Visit this link: **[City Weather Forecast v1.0.0](https://hunterpope03.github.io/city-weather-forecast/v1.0.0/])**
+1. Visit this link: **[City Weather Forecast v1.0.0](https://hunterpope03.github.io/city-weather-forecast/v1.0.0/)**
 ## Description
 This application is my second personal showcase project. Integrating Open Weather Map's API services, this weather app allows a user to enter a location. Upon choosing a valid location, current and forecasted weather data is displayed in the form of widgets from Open Weather Map. Additionally, a complex mapping option is featured, allowing for five different weather layers and scalable zoom options. All of this was created with the Open Weather Map API free plan. 
 
